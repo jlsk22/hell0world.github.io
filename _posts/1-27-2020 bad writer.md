@@ -1,6 +1,6 @@
 ---
-###Title: Bad Writer Reading Response
-####Subject: 
+Title: Bad Writer Reading Response
+Subject: Bad Writers by Michael Ahmad
 ---
 Why do you think I've asked you to read this piece? 
 What connection does it have to our class? 
