@@ -3,7 +3,6 @@ Bad Writers by Michael Ahmad
 ---
 Why do you think I've asked you to read this piece? 
 What connection does it have to our class? 
-Submit the link to this response using the homework form
 
 
 The process at which Ahmad elicits and debunks the fundementals and conformity of bad writing is a process we can all
