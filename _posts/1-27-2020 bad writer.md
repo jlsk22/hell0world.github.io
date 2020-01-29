@@ -1,5 +1,4 @@
 ---
-Bad Writer Reading Response
 Bad Writers by Michael Ahmad
 ---
 Why do you think I've asked you to read this piece? 
