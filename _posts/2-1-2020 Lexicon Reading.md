@@ -1,5 +1,7 @@
 ---
-"A Lexicon of the Indigenous Body: Images of Autonomy and Desire", Natalie Diaz
+layout: post
+published: false
+title: Leixcon Reading Response
 ---
 After you've done the readings, write 400-500 words on your relationship to art, and specifically what forms of creative 
 content inspire you. What types of things do you think about when you imagine the work you'd like to create? You can talk 
@@ -34,5 +36,4 @@ emotionally-heavy topics/taboos. Recently, through influences such as I-D magazi
 Instagram, I've gotten into illustrations with words or poetry that are both humorous and informative of this organic connection
 between us and the earth and each other. I like to depict spirituality, modern feminism and human connection. This has also 
 challenged me to eplore other avenues and I also see myself creating a book of these illustrations or editoral work and graphic
-design for magazines. 
- 
+design for magazines.
