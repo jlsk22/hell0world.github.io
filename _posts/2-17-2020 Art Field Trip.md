@@ -30,5 +30,5 @@ interaction betweeen people and looking at their image was very note-worthy to m
 their to be more invovlement and I'm leaning toward mixing medias with them to do so. 
 
 
-![First installation](/images/connect1.jpg)
+![First installation](/img/connect1.jpg)
 ![new york clearing](file:///Users/nikiisurm/Documents/IDM/ceative%20approaches/connect1.jpg)
