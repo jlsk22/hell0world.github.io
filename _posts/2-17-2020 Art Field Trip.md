@@ -32,3 +32,5 @@ their to be more invovlement and I'm leaning toward mixing medias with them to d
 
 
 <img src = "/img/connect2.jpg" width = "400" height = "400">
+
+<img src = "/img/mirrors2-min.jpg" width = "400" height = "400">
