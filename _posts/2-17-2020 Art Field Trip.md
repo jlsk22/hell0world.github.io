@@ -30,4 +30,5 @@ interaction betweeen people and looking at their image was very note-worthy to m
 their to be more invovlement and I'm leaning toward mixing medias with them to do so. 
 
 
-![new york clearing](/img/connect2.jpg){:class="img-responsive"}
+
+<img src = "/img/connect2.jpg" width = "400" height = "400">
