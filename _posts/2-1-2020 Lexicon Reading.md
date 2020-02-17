@@ -1,7 +1,5 @@
 ---
-layout: post
-published: false
-title: Leixcon Reading Response
+Leixcon Reading Response
 ---
 After you've done the readings, write 400-500 words on your relationship to art, and specifically what forms of creative 
 content inspire you. What types of things do you think about when you imagine the work you'd like to create? You can talk 
