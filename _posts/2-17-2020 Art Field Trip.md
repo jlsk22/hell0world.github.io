@@ -1,6 +1,5 @@
 ---
- *New York Clearing* by Sir Anthony Gormely
-
+"New York Clearing" by Sir Anthony Gormely
 ---
 Document your experience and write about the exhibition, show, or work that you visited for your homework. Questions to 
 use as starting places: What exhibition or event did you go to? What work stood out to you? If none of them did, why not? 
@@ -30,8 +29,6 @@ that many people didn't care to find the middle but most were interested in simp
 interaction betweeen people and looking at their image was very note-worthy to me and if I use mirrors in mine I know I want
 their to be more invovlement and I'm leaning toward mixing medias with them to do so. 
 
-[Article with involvement with BTS]
-(https://www.standard.co.uk/go/london/arts/bts-connect-antony-gormley-new-york-london-a4354036.html)
 
 ![Photos first installation](/images/connect1.jpg)
 ![new york clearing](file:///Users/nikiisurm/Documents/IDM/ceative%20approaches/connect1.jpg)
