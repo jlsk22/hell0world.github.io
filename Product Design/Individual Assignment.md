@@ -2,11 +2,10 @@
 Individual Assignment
 ---
 
-## Deliverables for 2/19/20:
+### Deliverables for 2/19/20:
 
-### POC: Drinking tea with the holder/bag/ball still in it is difficult 
-
-### Market: Tea-bag strainers/holders
+#### POC: Drinking tea with the holder/bag/ball still in it is difficult 
+Market: Tea-bag strainers/holders
 
 
 #### A. Customer Needs:
