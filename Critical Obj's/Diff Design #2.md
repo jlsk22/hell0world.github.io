@@ -10,6 +10,8 @@ A Parede - L. Prado, P. Oliveira
 
 Our given topics are:
 
-<img src = "/img/parameters.jpg" width = "300" height = "300" >
+**Amplification, Outrage, Data-Driven**
+
+<img src = "/img/parameters.jpg" width = "350" height = "450" >
 
 
