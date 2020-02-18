@@ -35,11 +35,15 @@ Market: Tea-bag strainers/holders
 
 
 #### C. Materials/Equipment Needed:
+- Cardbard
+- Silicon
+- Puddy/Clay
+- String
+- Suction Cup
 
 
 
-
-#### D. Documentation of Problems:
+#### D. Photos of Problems:
 
 
 
