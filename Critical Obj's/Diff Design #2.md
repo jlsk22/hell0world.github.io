@@ -10,6 +10,6 @@ A Parede - L. Prado, P. Oliveira
 
 Our given topics are:
 
-<img src = "/img/paremeters.jpg" width = "400" height = "500" >
+<img src = "/img/parameters.jpg" width = "300" height = "300" >
 
 
