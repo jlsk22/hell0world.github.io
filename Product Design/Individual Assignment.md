@@ -31,7 +31,7 @@ Individual Assignment
 - One side hooks onto edge
 - Keeps itself still by hooking onto handle 
 
-
+<img src = "/img/sketches.png" width = "300" height = "300">
 
 
 
