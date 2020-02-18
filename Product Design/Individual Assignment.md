@@ -42,13 +42,22 @@ Market: Tea-bag strainers/holders
 - Suction Cup
 
 
-
 #### D. Photos of Problems:
 
+<img src = "/img/tea1.jpg" width = "200" height = "200">
+<img src = "/img/tea2.jpg" width = "200" height = "200">
+<img src = "/img/tea3.jpg" width = "200" height = "200">
+<img src = "/img/tea4.jpg" width = "200" height = "200">
+<img src = "/img/tea5.jpg" width = "200" height = "200">
 
 
 #### E. Existing Solutions/Products & their Strengths/Weaknesses: 
-
-
-
+- Squishes tea for you
+- Doesn't NEED a tea bag, although some can work with one already
+- Not disability friendly
+- Can't keep in while drinking from it
+- Doesn't hold tea in place 
+- Brews all the tea
+- Cute design
+- Dish washer friendly
 
