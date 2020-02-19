@@ -14,4 +14,13 @@ Our given topics are:
 
 <img src = "/img/parameters.jpg" width = "350" height = "450" >
 
-
+### Ideas:
+- NLP: Natural Langugage Processes, converting human language to computer binary
+- Data Visualization --> projection/NYC Open Data database 
+- Privacy + Surveillance --> we have none now
+- Alexa
+- Amplification = visual element getting bigger
+- Video
+- Sounds into ---> p5.js
+- 
+- 
