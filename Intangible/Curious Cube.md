@@ -6,3 +6,5 @@ Make a cube shaped object that people can interact with through intangible inter
 
 
 Documentation:
+
+<img src = "/img/cranky cube.jpg" width = "400" height = "400" >
