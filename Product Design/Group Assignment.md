@@ -74,13 +74,13 @@ Won’t have (right now):
 
 #### Prototype: Detailed Drawings
 
-<img src = "/img/spring sketch.jpg" width= "300" height= "300" >
+<img src = "/img/spring sketch.jpg" width= "500" height= "400" >
 Bowl with plate/platform underneath
 
-<img src = "/img/magnetic sketch.jpg" width= "300" height= "300" >
+<img src = "/img/magnetic sketch.jpg" width= "500" height= "400" >
 Bowl with magnetic bottom and platform
 
-<img src = "/img/slot sketch.jpg" width= "300" height= "300" >
+<img src = "/img/slot sketch.jpg" width= "500" height= "400" >
 Bowl with utensil slot
 
 
@@ -104,15 +104,15 @@ Future prototypes will include constantly iterating on past ones, as well as tes
 
 #### Prototype Pictures:
 
-<img src = "/img/spring proto.jpg" width= "300" height= "300" >
+<img src = "/img/spring proto.jpg" width= "500" height= "400" >
 Bowl + platform
 
 
-<img src = "/img/magnetic proto.jpg" width= "300" height= "300" >
+<img src = "/img/magnetic proto.jpg" width= "500" height= "400" >
 Bowl + magnet
 
 
-<img src = "/img/slot proto.jpg" width= "300" height= "300" >
+<img src = "/img/slot proto.jpg" width= "500" height= "400" >
 Bowl + utensil slot
 
 
