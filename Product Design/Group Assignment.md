@@ -73,13 +73,14 @@ Won’t have (right now):
 - Incredibly lightweight as well as be a singular component
 
 #### Prototype: Detailed Drawings
-<img src = "/img/spring sketch.jpg" width= "300" height "300" >
+
+<img src = "/img/spring sketch.jpg" width= "300" height= "300" >
 Bowl with plate/platform underneath
 
-<img src = "/img/magnetic sketch.jpg" width= "300" height "300" >
+<img src = "/img/magnetic sketch.jpg" width= "300" height= "300" >
 Bowl with magnetic bottom and platform
 
-<img src = "/img/slot sketch.jpg" width= "300" height "300" >
+<img src = "/img/slot sketch.jpg" width= "300" height= "300" >
 Bowl with utensil slot
 
 
@@ -103,15 +104,15 @@ Future prototypes will include constantly iterating on past ones, as well as tes
 
 #### Prototype Pictures:
 
-<img src = "/img/spring proto.jpg" width= "300" height "300" >
+<img src = "/img/spring proto.jpg" width= "300" height= "300" >
 Bowl + platform
 
 
-<img src = "/img/magnetic proto.jpg" width= "300" height "300" >
+<img src = "/img/magnetic proto.jpg" width= "300" height= "300" >
 Bowl + magnet
 
 
-<img src = "/img/slot proto.jpg" width= "300" height "300" >
+<img src = "/img/slot proto.jpg" width= "300" height= "300" >
 Bowl + utensil slot
 
 
