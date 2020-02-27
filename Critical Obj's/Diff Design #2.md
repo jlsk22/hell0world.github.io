@@ -37,3 +37,8 @@ https://www.wired.com/2015/10/why-siri-cortana-voice-interfaces-sound-female-sex
 https://www.businesswire.com/news/home/20100312005100/en/Consumers-Responsive-Male-Female-Voices-Advertisements
 - “Voice tech has failed by not being programmed to respond adequately to abuse,” she said. “The example of Siri stating ‘I’d blush if I could’ when told it was a bitch is a well-known example, as is Alexa replying ‘Well, thanks for the feedback’ when told ‘You’re a slut’.”
 https://www.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
+
+### Final Device: 
+<img src = "/img/gross.jpg" width = "250" height = "350" >
+It's a speaker with custom aduio clips that are meant to be Alexa's or Siri's responses. 
+We presented by asking it normal questions and instead, she would respond with sassy/attitude comments and even "fuck you".
