@@ -74,10 +74,11 @@ I decided to change my prototypes based on a product I found that I thought was 
 #### G. Existing Strengths/Weaknesses: 
 - Biggest critique was that the design was counter-intuitive since the holes to strain the tea were too big and loose leaves fall through to the bottom of your container
 - Many people also said none of their designs sit low-enough in the cup and all floated to the surface and therefore, couldn't be drank with it
+- If container is tipped to the side as to drink from it, the lil guy floats up and prevents drinking
 - The pop-off silicone part is also very flimsey and loose as the holder piece
 - Everybody loved the cute and personable designs and said it attracted them to their product most and how they hang off the edge
 
 #### H. Revised Ideation: 
 
-<img src = "/img/teadraft1.jpg" width = "400" height = "500">
 <img src = "/img/teadraft2.jpg" width = "400" height = "500">
+<img src = "/img/teadraft1.jpg" width = "400" height = "500">
