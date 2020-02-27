@@ -39,6 +39,6 @@ https://www.businesswire.com/news/home/20100312005100/en/Consumers-Responsive-Ma
 https://www.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
 
 ### Final Device: 
-<img src = "/img/gross.jpg" width = "250" height = "350" >
+<img src = "/img/gross.jpg" width = "450" height = "500" >
 It's a speaker with custom aduio clips that are meant to be Alexa's or Siri's responses. 
 We presented by asking it normal questions and instead, she would respond with sassy/attitude comments and even "fuck you".
