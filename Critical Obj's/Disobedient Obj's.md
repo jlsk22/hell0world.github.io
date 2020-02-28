@@ -20,3 +20,19 @@ Disobedient Objects by Catherine Flood and Gavin Grindon, 2014
 - Choose a TOPIC, a DEVICE, and a MOOD
 - Make an INTERACTIVE Critical Object based on your selections
 - The technology should be conspicuous ( I should not be able to see your Arduino board / Wires / Motors / ... )
+- Your Device is your tool to connect with your audience (Sarcasm, Metaphor, Juxtaposition, Irony, Surrealism, ...)
+- Most likely the Mood will help to setup the tone of the interaction
+
+### Topic:
+- The US Government sucks and change within the system must happen from the bottom --> up
+
+### Device:
+- Juxtaposition
+
+### Mood:
+- ANGRY
+
+V is for Vendetta Mask as stickers/stencils/stamp with barcodes and the app name, scan the barcode on the app and it'll show you everywhere the stickers are placed
+
+
+
