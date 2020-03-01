@@ -14,3 +14,6 @@ other indication
 https://create.arduino.cc/projecthub/gadgetprogrammers/diy-auto-voice-record-and-playback-7a47d7
 
 <img src = "/img/cranky cube.jpg" width = "600" height = "600" >
+
+### Fabrification:
+[White opqaue acrylic](https://www.canalplastic.com/collections/acrylic-sheets/products/7508-white-opaque-acrylic-sheet?variant=32920758798)
