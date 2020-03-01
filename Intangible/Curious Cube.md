@@ -17,3 +17,4 @@ https://create.arduino.cc/projecthub/gadgetprogrammers/diy-auto-voice-record-and
 
 ### Fabrification:
 [White opqaue acrylic](https://www.canalplastic.com/collections/acrylic-sheets/products/7508-white-opaque-acrylic-sheet?variant=32920758798)
+Ardafruit neopixel LED-- maybe
