@@ -32,7 +32,35 @@ Disobedient Objects by Catherine Flood and Gavin Grindon, 2014
 ### Mood:
 - ANGRY
 
-V is for Vendetta Mask as stickers/stencils/stamp with barcodes and the app name, scan the barcode on the app and it'll show you everywhere the stickers are placed
+V is for Vendetta Mask as either stickers/stencils/stamp with barcodes and the app name, if you download the app and scan the barcode, it'll show you on a map everywhere the mask has been spotted and scanned in your area ---> pushing this ideal of 
+unity and most likely utilized at the start of any movement gaining momentum. 
 
+#### A. Research
+I've researched many sites online to see the best/cheapest method for building my own mobile app with geo-location and barcode
+scanning capabilities through reviews [like these](https://www.werockyourweb.com/mobile-app-builder/)
+
+- React native
+- [Appmakr](https://www.appmakr.com/)
+- [Siberian CMS](https://apptooltester.com/reviews/siberian/#comments)
+- [Appery.io](https://www.comparakeet.com/best-app-makers/appery-io-review/)
+- Or build it myself using XR Code in AppleStore + [CodewithChris tutorials](https://www.youtube.com/watch?v=jniJeamcIUU)
+
+I can pay someone to build it for me at:
+
+- Upwork.com
+- Fievrr.com
+- Codementor.io
+
+**Based on my research, I think I'm going to use React Native**
+
+#### B. Implementation
+- Build interface on [RN](https://reactnative.dev/docs/getting-started) (no profiles) 
+- [Make own unique barcode/qr code](https://barcode.tec-it.com/en/MobileQRCode?data=This%20is%20a%20QR%20Code%20by%20TEC-IT%20for%20mobile%20applications)
+- Add geo-navigation + [barcode scanners] (https://docs.scandit.com/5.8/react_native/react-native-integrate.html)
+- Add markers on geo map based on location 
+- Make physical stencil/stamp/sticker
+- Test it
+
+#### C. Result
 
 
