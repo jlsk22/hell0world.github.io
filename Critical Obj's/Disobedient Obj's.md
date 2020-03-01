@@ -63,5 +63,5 @@ I can pay someone to build it for me at:
 
 #### C. Result
 
-<img src ="Vendetta.jpg" width = "400" height ="500" >
+<img src = "/img/Vendetta.jpg" width = "400" height ="500" >
 
