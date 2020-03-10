@@ -72,9 +72,10 @@ I can pay someone to build it for me at:
  ---> My device is an object that imitates this 'silent killer' nature of seemingly harmless social media. 
  
  <img src = "/img/media1.jpg" width ="500" height ="600" >
- <img src = "/img/media2.jpg" width ="500" height ="600" >
  <img src = "/img/media3.jpg" width ="500" height ="600" >
+ <img src = "/img/media2.jpg" width ="500" height ="600" >
  <img src = "/img/media4.jpg" width ="600" height ="500" >
 
 
 #### How It Works:
+One button that says "Like", when you press it you receive a candy capsule with candy in it. Until the 4th time you press it, then you start to recevie pills. Until the 6th time you recevie empty capsules. 
