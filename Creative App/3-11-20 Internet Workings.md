@@ -16,7 +16,7 @@ no one will be held accountable and the problem will continue to worsen. We alre
 social media on our psyches and related to mental illness. And those apps initially started out with the main priority to
 simply share one form of data on a singular platform with one another. Nobody knew or could predict the influence Facebook, Instagram and Twitter would have today. It's scary and frightening because if no privatized company is willing to have that 
 accountability or even discussion, then it leads me to believe that the only way this cycle will end is IF the government were 
-to take the torch. And that though, is laughable. There's always the hope that a president might have the intuition and 
+to take the torch. And that thought, is laughable. There's always the hope that a president might have the intuition and 
 critical thinking to realize this but based on these elections and how generational thinking works- that hope is a lost cause
 as well. 
 
