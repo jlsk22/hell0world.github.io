@@ -35,8 +35,8 @@ I can pull inspiration from some of my first designs, since I started unknowingl
 
 
 ### Materials: 
-- clay, instamorph, model-magic 
-- paint or dye with a matte finish
+- clay, instamorph, model-magic, anything close to resembiling soft silicon
+- paint or dye 
 - stainless steel fine mesh (take from frankenstein models)
 
 
@@ -47,5 +47,6 @@ I can pull inspiration from some of my first designs, since I started unknowingl
   
   
  - I want all the designs to have an S-form like this one, except the tie between the anchor and attachment to cup will be sturdier (see also that this one still floats in cup due to material of strainer part, not weighted-enough)
+ - I would like this finish type on it, a color on soft silicone 
  
   <img src = "/img/insp3.png" width ="350" height ="250">
