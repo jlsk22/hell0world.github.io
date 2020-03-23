@@ -34,7 +34,7 @@ I can pull inspiration from some of my first designs, since I started unknowingl
 - stainless steel fine mesh (take from frankenstein models)
 
 
-#### Inspiration: 
+### Inspiration: 
 - I would like the bottom tea strainer to look like this, with the metal mesh being able to pop on/off easily and with the weight distribution toward bottom so it acts as anchor by itself. Clost to fish design looks-ike this but mine will be made out of the soft silicon material 
 
   <img src = "/img/inspo2.png" width="350" height = "250">
