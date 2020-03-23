@@ -2,6 +2,8 @@
 Individual Assignment
 ---
 
+
+
 ### Deliverables for 3/12/20: Works-Like Prototype
 
 <img src = "/img/poc1.png" width="550" height ="350">
@@ -22,6 +24,7 @@ I started with the handle being grounded to the cup. What I found was that a mol
 
 I can pull inspiration from some of my first designs, since I started unknowingly ideating the looks-like before. I'm going to attempt the **fishing-pole and leaf design**. Looking at the market most strainers are made out of staintless steel fine mesh with BPA-free soft silicon. 
 
+### Sketches:
 
 <img src = "/img/teadraft2.jpg" width = "400" height = "500">
 <img src = "/img/teadraft1.jpg" width = "400" height = "500">
