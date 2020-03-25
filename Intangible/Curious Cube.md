@@ -16,7 +16,8 @@ https://create.arduino.cc/projecthub/gadgetprogrammers/diy-auto-voice-record-and
 <img src = "/img/cranky cube.jpg" width = "600" height = "600" >
 
 ### Fabrification:
-[White opqaue acrylic](https://www.canalplastic.com/collections/acrylic-sheets/products/7508-white-opaque-acrylic-sheet?variant=32920758798)
+- [White opqaue acrylic](https://www.canalplastic.com/collections/acrylic-sheets/products/7508-white-opaque-acrylic-sheet?variant=32920758798)
+- 6x 5.5" 
 
 #### First draft: 
 - Video of all working components can be found [here](https://youtu.be/Nskk3B-UGM0)
