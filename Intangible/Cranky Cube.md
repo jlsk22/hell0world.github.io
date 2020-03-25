@@ -34,6 +34,7 @@ https://create.arduino.cc/projecthub/gadgetprogrammers/diy-auto-voice-record-and
 - One of them being, as you can see in the first draft video, all the individual parts worked initially. But as soon as we 
 hooked it up to an external power supply and put it in the acrylic box, the arduino would shut off
 - We learned it was due to our power supply not being able to power everything so we have to get rid of the Ardafruit neopixel, so there would no longer be another output indication from the user when it woke up
-- The speaker volume turned out to be pretty low and we decided to drop adding the second swearing dialogue that plays after it's worken up
-- Overall, it's one thing to find all the different working parts online like the code, materials, and other resourcs but as soon as it's all arrived, a lot of time is invested in getting them all to work and how and fabrification
+- The speaker volume turned out to be pretty low and we decided to drop adding the second speaker that swears after it's woken up. I also had to make extra holes in the speaker closest to the wall so it could be heard best through the acrylic. 
+- The APDS9960 sensor can only be triggered from a specific range and could not sense movement through the acrylic walls, so I had to make a gap in the wall where the main sensor part oculd stick out.
+- Overall, it's one thing to find all the different working parts online like the code, materials, and other resources but as soon as it's all arrived, a lot of time is invested in getting them all to work and how and fabrification
 - I would usually leave fabrification and the physically building part to the last while I focused on the tech more, but I realized both are just as important to the process, especially for creating a finished and polished project 
