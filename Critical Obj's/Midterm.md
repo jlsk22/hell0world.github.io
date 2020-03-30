@@ -99,3 +99,9 @@ First working prototype found [here](https://youtu.be/NC5CpxCt0rM)
  
 
 ### Final Result:
+
+
+
+
+
+### Takeaways/Challenges:
