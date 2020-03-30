@@ -61,8 +61,6 @@ _Based on my research, I think I'm going to use React Native_
 - Make physical stencil/stamp/sticker
 - Test it
 
-#### C. Result
-
 <img src = "/img/Vendetta.jpg" width = "350" height ="450" >
 
 
@@ -92,10 +90,10 @@ One button that says "Like", when you press the button it dispenses a capsule wi
 
 #### Process:
 
- <img src = "/img/midterm-sketch.heic" width ="500" height ="600" >
+ <img src = "/img/midterm-sketch.HEIC" width ="500" height ="600" >
  
 First working prototype found [here](https://youtu.be/NC5CpxCt0rM)
 
- <img src = "/img/protortpe.heic" width ="500" height ="600" >
- <img src = "/img/prototype2.heic" width ="500" height ="600" >
+ <img src = "/img/protortpe.HEIC" width ="500" height ="600" >
+ <img src = "/img/prototype2.HEIC" width ="500" height ="600" >
  
