@@ -1,5 +1,5 @@
 ---
-Disobedient Object's
+Midterm- "Like Factory"
 ---
 Disobedient Objects was an exhibition, curated by Catherine Flood and Gavin Grindon, of tools of social change and designed 
 objects created by grassroots social movements from around the world.
@@ -51,7 +51,7 @@ I can pay someone to build it for me at:
 - Fievrr.com
 - Codementor.io
 
-**Based on my research, I think I'm going to use React Native**
+_Based on my research, I think I'm going to use React Native_
 
 #### B. Implementation
 - Build interface on [RN](https://reactnative.dev/docs/getting-started) (no profiles) 
@@ -66,7 +66,7 @@ I can pay someone to build it for me at:
 <img src = "/img/Vendetta.jpg" width = "350" height ="450" >
 
 
-### IDEA 2.0
+### IDEA 2.0:
  **Topic:** There are not any boundaries for us to know the difference between healthy and non-healthy media consumption. No one is checking the ethics and taking responsibility of the found correlations between social media and mental illness, mainly it's negative feedback loop relationship. It's up to us to monitor that ourselves and many don't even think about the correlation until it's too late. It's often a Silent Killer, especially for young adolescents who don't think and instead consume the latest media trends to stay relevant.
  
  ---> My device is an object that imitates this 'silent killer' nature of seemingly harmless social media. 
@@ -78,4 +78,24 @@ I can pay someone to build it for me at:
 
 
 #### How It Works:
-One button that says "Like", when you press it you receive a candy capsule with candy in it. Until the 4th time you press it, then you start to recevie pills. Until the 6th time you recevie empty capsules. 
+One button that says "Like", when you press the button it dispenses a capsule with a candy in it. Until the 4th time you press it, then you start to recevie pills. Until the 6th time you recevie empty capsules. 
+
+
+#### Materials:
+- Cardboard
+- Tape
+- Exacto Knife 
+- Plactic Bottle 
+- 1 Servo Motor
+- Two push buttons 
+
+
+#### Process:
+
+ <img src = "/img/midterm-sketch.heic" width ="500" height ="600" >
+ 
+First working prototype found [here](https://youtu.be/NC5CpxCt0rM)
+
+ <img src = "/img/protortpe.heic" width ="500" height ="600" >
+ <img src = "/img/prototype2.heic" width ="500" height ="600" >
+ 
