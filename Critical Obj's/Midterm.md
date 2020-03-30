@@ -98,4 +98,4 @@ First working prototype found [here](https://youtu.be/NC5CpxCt0rM)
  <img src = "/img/prototype2.jpg" width ="300" height ="400" >
  
 
-### Result:
+### Final Result:
