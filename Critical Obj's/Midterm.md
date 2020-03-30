@@ -64,8 +64,9 @@ _Based on my research, I think I'm going to use React Native_
 <img src = "/img/Vendetta.jpg" width = "350" height ="450" >
 
 
-## IDEA 2.0:
- **Topic:** There are not any boundaries for us to know the difference between healthy and non-healthy media consumption. No one is checking the ethics and taking responsibility of the found correlations between social media and mental illness, mainly it's negative feedback loop relationship. It's up to us to monitor that ourselves and many don't even think about the correlation until it's too late. It's often a Silent Killer, especially for young adolescents who don't think and instead consume the latest media trends to stay relevant.
+## IDEA 2.0
+ **Topic:** There are not any boundaries for us to know the difference between healthy and non-healthy media consumption. No one is checking the ethics and taking responsibility of the found correlations between social media and mental illness, mainly it's negative feedback loop relationship. It's up to us to monitor that ourselves and many don't even think about the correlation until it's too late. It's often a Silent Killer, especially for young adolescents who don't think and instead consume the latest media trends to stay relevant  
+ ---> My device is an object that imitates this 'silent killer' nature of seemingly harmless social media. 
  
  ### Topic:
 - Social Media is a silent killer disguised as an arcade machine outputting candy and marketed to children to get them addicted, mcuh like drug addiction but when they realize it's too late. 
@@ -75,8 +76,6 @@ _Based on my research, I think I'm going to use React Native_
 
 ### Mood:
 - Playful
- 
- ---> My device is an object that imitates this 'silent killer' nature of seemingly harmless social media. 
  
  <img src = "/img/media1.jpg" width ="500" height ="600" >
  <img src = "/img/media3.jpg" width ="500" height ="600" >
