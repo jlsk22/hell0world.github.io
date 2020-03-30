@@ -15,8 +15,7 @@ Toilet Sensor
 
 #### Sketch: 
 
-< img src = "/img/toilet.jpg" width ="400" height="500" >
-
+<img src = "/img/toilet.jpg" width ="400" height="500" >
 
 
 #### Takeaways/Challenges:
