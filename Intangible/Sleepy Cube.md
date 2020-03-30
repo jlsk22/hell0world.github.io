@@ -20,7 +20,7 @@ https://create.arduino.cc/projecthub/gadgetprogrammers/diy-auto-voice-record-and
 - 6x 5.5" 
 
 #### First draft: 
-- Video of all working components can be found [here](https://youtu.be/Nskk3B-UGM0)
+- Video demo of all working components can be found [here](https://youtu.be/Nskk3B-UGM0)
 
 <img src = "/img/rough.jpeg" width ="550" height ="550" >
 
