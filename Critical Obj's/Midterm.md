@@ -69,7 +69,7 @@ _Based on my research, I think I'm going to use React Native_
  ---> My device is an object that imitates this 'silent killer' nature of seemingly harmless social media. 
  
  ### Topic:
-- Social Media is a silent killer disguised as an arcade machine outputting candy and marketed to children to get them addicted, mcuh like drug addiction but when they realize it's too late. 
+- Social Media is a silent killer disguised as an arcade machine outputting candy and marketed to children to get them addicted, much like drug addiction but when they realize it's too late. 
 
 ### Device:
 - Metaphor
@@ -84,7 +84,7 @@ _Based on my research, I think I'm going to use React Native_
 
 
 ### How It Works:
-One button that says "Like" and "Dislike", when you press either button it dispenses a capsule with candy in it. Until the 4th time you press, then you start to recevie capsules filled wtih pills. Until the 6th time, then you start to get empty capsules. 
+One button that says "Like" and "Dislike", when you press either button it dispenses a capsule with candy in it. Until the 4th time you press it, then you start to recevie capsules filled wtih pills. Until the 6th time, then you start to get empty capsules. 
 
 
 ### Materials:
@@ -108,8 +108,16 @@ Second working prototype found [here](https://youtu.be/NC5CpxCt0rM)
 
 ### Final Result:
 
+A video demo can be found [here](https://youtu.be/oMUyhmbMaBY)
 
-
+<img src = "/img/done.jpg" width ="500" height ="600" >
+<img src = "/img/done2.jpg" width ="500" height ="600" >
+<img src = "/img/done3.jpg" width ="500" height ="600" >
 
 
 ### Takeaways/Challenges:
+- Making multiple working prototypes testing each component is crucial to the process
+- If I had figured it out, I would've liked the "Dislike" button to continusouly dispensing capsules once pressed
+- Ran into many complications, right now the upside down plastic bottle isn't compatible with the capsules I got from a Laundromat machine. Specifically, it's too big so the capsules don't have enough room to individually fall and dispense from it
+- Program it in a way so that I don't have to manually load the specific capsules in order
+
