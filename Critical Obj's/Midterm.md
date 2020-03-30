@@ -90,10 +90,10 @@ One button that says "Like", when you press the button it dispenses a capsule wi
 
 #### Process:
 
- <img src = "/img/midterm-sketch.HEIC" width ="500" height ="600" >
+ <img src = "/img/midterm-sketch.HEIC" width ="300" height ="400" >
  
 First working prototype found [here](https://youtu.be/NC5CpxCt0rM)
 
- <img src = "/img/protortpe.HEIC" width ="500" height ="600" >
- <img src = "/img/prototype2.HEIC" width ="500" height ="600" >
+ <img src = "/img/protortpe1.HEIC" width ="300" height ="400" >
+ <img src = "/img/prototype2.HEIC" width ="300" height ="400" >
  
