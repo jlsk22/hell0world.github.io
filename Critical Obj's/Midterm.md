@@ -76,7 +76,7 @@ _Based on my research, I think I'm going to use React Native_
 
 
 ### How It Works:
-One button that says "Like", when you press the button it dispenses a capsule with a candy in it. Until the 4th time you press it, then you start to recevie pills. Until the 6th time you recevie empty capsules. 
+One button that says "Like" and "Dislike", when you press either button it dispenses a capsule with candy in it. Until the 4th time you press, then you start to recevie capsules filled wtih pills. Until the 6th time, then you start to get empty capsules. 
 
 
 ### Materials:
