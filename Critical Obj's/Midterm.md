@@ -64,8 +64,17 @@ _Based on my research, I think I'm going to use React Native_
 <img src = "/img/Vendetta.jpg" width = "350" height ="450" >
 
 
-### IDEA 2.0:
+## IDEA 2.0:
  **Topic:** There are not any boundaries for us to know the difference between healthy and non-healthy media consumption. No one is checking the ethics and taking responsibility of the found correlations between social media and mental illness, mainly it's negative feedback loop relationship. It's up to us to monitor that ourselves and many don't even think about the correlation until it's too late. It's often a Silent Killer, especially for young adolescents who don't think and instead consume the latest media trends to stay relevant.
+ 
+ ### Topic:
+- Social Media & Mental Illness
+
+### Device:
+- Metaphor
+
+### Mood:
+- Playful
  
  ---> My device is an object that imitates this 'silent killer' nature of seemingly harmless social media. 
  
@@ -88,7 +97,7 @@ One button that says "Like" and "Dislike", when you press either button it dispe
 - Two push buttons 
 
 
-### Process:
+### Sketches/Implementation:
 
  <img src = "/img/midterm-sketch.jpg" width ="500" height ="600" >
  
