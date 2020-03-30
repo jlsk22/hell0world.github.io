@@ -27,6 +27,7 @@ https://create.arduino.cc/projecthub/gadgetprogrammers/diy-auto-voice-record-and
 
 ### Final:
 
+Video demo can be found [here](https://youtu.be/Sf5NjE-a4F8)
 
 
 #### Takeaways/Challenges:
