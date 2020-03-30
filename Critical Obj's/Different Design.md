@@ -1,5 +1,5 @@
 ---
-#3: A Different Type of Design 
+A Different Type of Design 
 ---
 References:
 
