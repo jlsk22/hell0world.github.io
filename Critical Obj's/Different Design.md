@@ -38,7 +38,16 @@ https://www.businesswire.com/news/home/20100312005100/en/Consumers-Responsive-Ma
 - “Voice tech has failed by not being programmed to respond adequately to abuse,” she said. “The example of Siri stating ‘I’d blush if I could’ when told it was a bitch is a well-known example, as is Alexa replying ‘Well, thanks for the feedback’ when told ‘You’re a slut’.”
 https://www.theguardian.com/technology/2020/jan/11/why-do-we-gender-ai-voice-tech-firms-move-to-be-more-inclusive
 
+### Materials: 
+- Alexa
+
 ### Final Device: 
 <img src = "/img/gross.jpg" width = "450" height = "500" >
 It's a speaker with custom aduio clips that are meant to be Alexa's or Siri's responses. 
 We presented by asking it normal questions and instead, she would respond with sassy/attitude comments and even "fuck you".
+
+### Takeaways/Challenges: 
+- Still confused as to how to go about thinking of critical objects and the creative process behind it
+- I can't seem to wrap my brain around what the input vs output relationship, final form, and general criticalness means
+- We were definitely limited on time and our computing skills and it really showed in our final product, nowhere near polished
+- If I had more time, I would want to choose a different form rather than a box and actually program Alexa to say immediate responses
