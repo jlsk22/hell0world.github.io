@@ -90,12 +90,12 @@ One button that says "Like" and "Dislike", when you press either button it dispe
 
 ### Process:
 
- <img src = "/img/midterm-sketch.jpg" width ="400" height ="500" >
+ <img src = "/img/midterm-sketch.jpg" width ="500" height ="600" >
  
-First working prototype found [here](https://youtu.be/NC5CpxCt0rM)
+Second working prototype found [here](https://youtu.be/NC5CpxCt0rM)
 
- <img src = "/img/protortpe1.jpg" width ="300" height ="400" >
- <img src = "/img/prototype2.jpg" width ="300" height ="400" >
+ <img src = "/img/protortpe1.jpg" width ="500" height ="600" >
+ <img src = "/img/prototype2.jpg" width ="500" height ="600" >
  
 
 ### Final Result:
