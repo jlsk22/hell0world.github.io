@@ -75,11 +75,11 @@ _Based on my research, I think I'm going to use React Native_
  <img src = "/img/media4.jpg" width ="600" height ="500" >
 
 
-#### How It Works:
+### How It Works:
 One button that says "Like", when you press the button it dispenses a capsule with a candy in it. Until the 4th time you press it, then you start to recevie pills. Until the 6th time you recevie empty capsules. 
 
 
-#### Materials:
+### Materials:
 - Cardboard
 - Tape
 - Exacto Knife 
@@ -88,12 +88,14 @@ One button that says "Like", when you press the button it dispenses a capsule wi
 - Two push buttons 
 
 
-#### Process:
+### Process:
 
- <img src = "/img/midterm-sketch.jpg" width ="300" height ="400" >
+ <img src = "/img/midterm-sketch.jpg" width ="400" height ="500" >
  
 First working prototype found [here](https://youtu.be/NC5CpxCt0rM)
 
  <img src = "/img/protortpe1.jpg" width ="300" height ="400" >
  <img src = "/img/prototype2.jpg" width ="300" height ="400" >
  
+
+### Result:
