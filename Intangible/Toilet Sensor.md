@@ -13,9 +13,9 @@ Toilet Sensor
 - One VL53L0X Time of Flight Sensor to go off when they leave, aka triggers toilet flush 
 - Chair
 
-#### Final Product: 
+#### Sketch: 
 
-
+< img src = "/img/toilet.jpg" width ="400" height="500" >
 
 
 
