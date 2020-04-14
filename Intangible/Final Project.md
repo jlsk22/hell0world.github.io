@@ -13,6 +13,3 @@ measure the user's body temperature fluxuations and if it perceives a range that
 it will inform you.
 
 
-<img src ="/img/load cell.JPG" width="500" height= "400"> 
-
-My second idea is dealing with the prompt of interacting with nature and data visualization. Although this idea is not as fleshed out yet, I'm interested in load cells and experimenting with different inputs as interactive pieces. I'm not sure yet if its possible but I would like to explore different avenues. 
