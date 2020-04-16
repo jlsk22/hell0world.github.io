@@ -20,7 +20,7 @@ There's been numerous reports of different deaths from corona but from people wi
 
 <img src ="/img/ETs Flower 2.JPG" width="500" height= "400"> 
 
-My third idea is creating a mini biosphere for a flower-plant-environment that tracks the outside humidity, temp, C02 and V02 levels and changes the inside levels depending on them. My main goal is to bring awareness to the envrionmental coniditons of cities and how if this flower dies, we should be seriously thinking about the ramifications of us living in this conditions and our surrounding earth. 
+My third idea is creating a mini biosphere for a flower-plant-environment that tracks the outside humidity, temp, C02 and VOC levels and changes the inside levels depending on them. My main goal is to bring awareness to the envrionmental coniditons of cities and how if this flower seems as if it is 'dying', we should be seriously thinking about the ramifications of us living in this conditions and our effects on earth. 
 
 
 
