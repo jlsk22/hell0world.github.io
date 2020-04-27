@@ -36,7 +36,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
 ## Device: Juxtaposition/Metaphor
 ## Mood: Interactive + Unexpected
 #### Limitation 1: Not transportable 
-#### Limitation 2: 
+#### Limitation 2: Only one input
 
  <img src= "/img/Objective Mirror.jpg" width="600" height="500" />
  
