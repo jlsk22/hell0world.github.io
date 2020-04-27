@@ -35,6 +35,8 @@ world we're just plainly fired. Many women see this as finally being set free fr
  ## Topic: Feminism + Unviersal Standards + Algorithims
 ## Device: Juxtaposition/Metaphor
 ## Mood: Interactive + Unexpected
+## Limitation 1:
+## Limitation 2: 
 
  <img src= "/img/Objective Mirror.jpg" width="600" height="500" />
  
