@@ -45,3 +45,21 @@ world we're just plainly fired. Many women see this as finally being set free fr
  - "Definitely not the biased system I'm programmed on to give you an answer. You've been conned to believe through centuries of systematic societal, political and economic gaslighting and brainwashing that the only opinion that matters and has value to you, is my own because we're the ones who actually financially + politically benefit from 90% of the hyper analzyed norms we create. All you have to do is stop beleiving it, but you don't and that's why we're still on top"
  
 <img src= "/img/lmao.JPG" width="400" height="250" />
+
+
+
+ 
+<img src= "/img/LEd strip.JPEG" width="300" height="450" />
+
+## Materials:
+- Arudino Uno
+- LED light strip
+- Power Supply
+- Voice Recognition Module With Microphone Control Voice Board Geeetech for Arduino
+ - https://www.banggood.com/Voice-Recognition-Module-With-Microphone-Control-Voice-Board-p-1056127.html?akmClientCountry=America&utm_source=youtube&utm_medium=liangzhenhua&utm_campaign=MertArduino&utm_content=liangzhenhua&p=CS120478587752016125&cur_warehouse=CN
+- Speaker
+
+
+
+
+
