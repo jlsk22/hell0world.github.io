@@ -42,6 +42,7 @@ Final
 - Voice Recognition Module With Microphone Control Voice Board Geeetech for Arduino
  - https://www.banggood.com/Voice-Recognition-Module-With-Microphone-Control-Voice-Board-p-1056127.html?akmClientCountry=America&utm_source=youtube&utm_medium=liangzhenhua&utm_campaign=MertArduino&utm_content=liangzhenhua&p=CS120478587752016125&cur_warehouse=CN
 - Speaker
+- How to LED's: https://www.youtube.com/watch?v=bdIij70_VN0
 
 ## Protype 1:
 
