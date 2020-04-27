@@ -50,7 +50,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
 
 ## Materials:
 
-<img src= "/img/LED strip.jpg" width="550" height="300" />
+<img src= "/img/LED strip.jpg" width="550" height="400" />
 
 - Arudino Uno
 - LED light strip
