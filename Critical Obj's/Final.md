@@ -10,7 +10,6 @@ Final
 
 <img src = "/img/final.JPG" width = '300' height = '250'>
 <img src = "/img/final2.JPG" width = '300' height = '250'>
-
 - Input = time VS Output = you don't get to enjoy its beauty anymore
 - Society views women as ageing as one of the worst apcolapyses for us, since it means we're no longer contributing our 
 beauty, youth and value to it. Through media and 'elederly women' products, society caters less and less to us as they 
@@ -32,7 +31,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
  - lingerie that shows off the thought-of "non sexy parts of your body" 
  - [Beauty, bodies, standards read](https://www.are.na/block/4034669)
  
- 
+
  ## Topic: Feminism + Unviersal Standards
 ## Device: Juxtaposition/Metaphor
 ## Mood: Interactive + Unexpected
@@ -49,7 +48,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
 
 
  
-<img src= "/img/LEd strip.jpg" width="300" height="450" />
+<img src= "/img/LED strip.jpg" width="300" height="450" />
 
 ## Materials:
 - Arudino Uno
