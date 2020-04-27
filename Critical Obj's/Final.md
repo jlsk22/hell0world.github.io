@@ -49,7 +49,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
 
 
  
-<img src= "/img/LEd strip.JPEG" width="300" height="450" />
+<img src= "/img/LEd strip.jpg" width="300" height="450" />
 
 ## Materials:
 - Arudino Uno
