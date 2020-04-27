@@ -27,6 +27,7 @@ Final
  - LED-lined mirror when somebody says the key words "Mirror, mirror on the wall, whos the fairest of them all" lights up and says:
  - "I cannot make that decision because I've not been programmed to be objective"
  - "Definitely not the biased system I'm programmed on to give you an answer. You've been conned to believe through centuries of systematic societal, political and economic gaslighting and brainwashing that the only opinion that matters and has value to you, is my own because we're the ones who actually financially + politically benefit from 90% of the hyper analzyed norms we create. All you have to do is stop beleiving it, but you don't and that's why we're still on top"
+ - Feedback: https://docs.google.com/presentation/d/1ljGuxIDaIfiJOhPFewiltJZhospkJG5CqiavqZAySOo/edit#slide=id.g7521087fd9_8_7
  
 <img src= "/img/lmao.JPG" width="400" height="250" />
 
