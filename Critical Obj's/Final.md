@@ -32,7 +32,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
  - [Beauty, bodies, standards read](https://www.are.na/block/4034669)
  
 
- ## Topic: Feminism + Unviersal Standards + Algorithims
+ ## Topic: Feminism + Body Standards + Algorithms
 ## Device: Juxtaposition/Metaphor
 ## Mood: Interactive + Unexpected
 #### Limitation 1: Not transportable 
