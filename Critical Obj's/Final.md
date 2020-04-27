@@ -48,7 +48,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
 
 
  
-<img src= "/img/LED strip.jpg" width="400" height="300" />
+<img src= "/img/LED strip.jpg" width="350" height="500" />
 
 ## Materials:
 - Arudino Uno
