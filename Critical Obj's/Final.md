@@ -32,15 +32,16 @@ world we're just plainly fired. Many women see this as finally being set free fr
  - lingerie that shows off the thought-of "non sexy parts of your body" 
  - [Beauty, bodies, standards read](https://www.are.na/block/4034669)
  
-  <img src= "/img/lmao.JPG" width="400" height="250" />
  
- ### Topic: Feminism + Unviersal Standards
-### Device: Juxtaposition/Metaphor
-### Mood: Interactive + Unexpected
+ ## Topic: Feminism + Unviersal Standards
+## Device: Juxtaposition/Metaphor
+## Mood: Interactive + Unexpected
 
- <img src= "/img/Mirror.jpg" width="500" height="500" />
+ <img src= "/img/Mirror.jpg" width="500" height="550" />
  
   - Evil person asks the mirror "Mirror, mirror on the wall. Who's the fairest of them all?" everyday to make sure it's still her --> symbol of systematic-biased inherently built into every every one of our algorithmic, machine learning, AI based technology that we rely on for a unviersal standard. (digital marketing algorithims, instagram/facebook/youtube trends, most reccommend videos)
  - LED-lined mirror when somebody says the key words "Mirror, mirror on the wall, whos the fairest of them all" lights up and says:
  - "I cannot make that decision because I've not been programmed to be objective"
  - "Definitely not the biased system I'm programmed on to give you an answer. You've been conned to believe through centuries of systematic societal, political and economic gaslighting and brainwashing that the only opinion that matters and has value to you, is my own because we're the ones who actually financially + politically benefit from 90% of the hyper analzyed norms we create. All you have to do is stop beleiving it, but you don't and that's why we're still on top"
+ 
+<img src= "/img/lmao.JPG" width="400" height="250" />
