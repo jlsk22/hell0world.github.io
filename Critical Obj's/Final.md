@@ -35,7 +35,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
  ## Topic: Feminism + Unviersal Standards + Algorithims
 ## Device: Juxtaposition/Metaphor
 ## Mood: Interactive + Unexpected
-#### Limitation 1: 
+#### Limitation 1: Not transportable 
 #### Limitation 2: 
 
  <img src= "/img/Objective Mirror.jpg" width="600" height="500" />
@@ -50,7 +50,7 @@ world we're just plainly fired. Many women see this as finally being set free fr
 
 ## Materials:
 
-<img src= "/img/LED strip.jpg" width="350" height="500" />
+<img src= "/img/LED strip.jpg" width="550" height="300" />
 
 - Arudino Uno
 - LED light strip
