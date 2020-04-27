@@ -13,9 +13,9 @@ Final
  - society only sees women's value as baby makers and looking pretty for the male gaze
  - lingerie that shows off the thought-of "non sexy parts of your body" 
  - [Beauty, bodies, standards read](https://www.are.na/block/4034669)
- 
 
- ## Topic: Feminism + Body Standards + Algorithms
+
+## Topic: Feminism + Body Standards + Algorithms
 ## Device: Juxtaposition/Metaphor
 ## Mood: Interactive + Unexpected
 #### Limitation 1: Not transportable 
@@ -42,7 +42,7 @@ Final
  - https://www.banggood.com/Voice-Recognition-Module-With-Microphone-Control-Voice-Board-p-1056127.html?akmClientCountry=America&utm_source=youtube&utm_medium=liangzhenhua&utm_campaign=MertArduino&utm_content=liangzhenhua&p=CS120478587752016125&cur_warehouse=CN
 - Speaker
 
-
+## Protype 1:
 
 
 
