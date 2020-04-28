@@ -21,7 +21,10 @@ Final
 #### Limitation 1: Not transportable 
 #### Limitation 2: Only one input
 
- <img src= "/img/Objective Mirror.jpg" width="600" height="500" />
+
+<img src= "/img/mirror-sleeping.jpg" width="550" height="400" />
+
+<img src= "/img/Objective Mirror.jpg" width="600" height="500" />
  
   - Evil person asks the mirror "Mirror, mirror on the wall. Who's the fairest of them all?" everyday to make sure it's still her --> symbol of systematic-biased inherently built into every every one of our algorithmic, machine learning, AI based technology that we rely on for a unviersal standard. (digital marketing algorithims, instagram/facebook/youtube trends, most reccommend videos, machine-learning driven platforms)
  - LED-lined mirror when somebody says the key words "Mirror, mirror on the wall, whos the fairest of them all" lights up and says:
