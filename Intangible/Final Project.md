@@ -4,10 +4,10 @@ Final
 
 ## ET's Flower
 
-### PROTO 1:
+### Sketch 1:
 <img src ="/img/ETs Flower 2.JPG" width="500" height= "400"> 
 
-### PROTO 2:
+### Sketch 2:
 <img src ="/img/ET's-Flower.jpg" width="500" height= "400"> 
 
 
