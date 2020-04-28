@@ -2,7 +2,7 @@
 Final
 ---
 
-## Algorithms + Beauty Standards 
+## Algorithms + Standards 
 
 <img src= "/img/scary.png" width="550" height="400" />
 
