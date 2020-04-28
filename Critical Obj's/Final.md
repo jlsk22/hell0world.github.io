@@ -18,7 +18,7 @@ Final
 ## Topic: Feminism + Body Standards + Algorithms
 ## Device: Juxtaposition/Metaphor
 ## Mood: Interactive + Unexpected
-#### Limitation 1: Not transportable 
+#### Limitation 1: Not transportable/wearable
 #### Limitation 2: Only one input
 
 
@@ -30,6 +30,7 @@ Final
  - LED-lined mirror when somebody says the key words "Mirror, mirror on the wall, whos the fairest of them all" lights up and says:
  - "I cannot make that decision because I've not been programmed to be objective"
  - "Definitely not the biased system I'm programmed on to give you an answer. You've been conned to believe through centuries of systematic societal, political and economic gaslighting and brainwashing that the only opinion that matters and has value to you, is my own because we're the ones who actually financially + politically benefit from 90% of the hyper analzyed norms we create. All you have to do is stop beleiving it, but you don't and that's why we're still on top"
+ - Form matches Sleeping Beauty's to make culutrual reference easiser
  - Feedback: https://docs.google.com/presentation/d/1ljGuxIDaIfiJOhPFewiltJZhospkJG5CqiavqZAySOo/edit#slide=id.g7521087fd9_8_7
  
 <img src= "/img/lmao.JPG" width="400" height="250" />
@@ -46,8 +47,6 @@ Final
  - https://www.banggood.com/Voice-Recognition-Module-With-Microphone-Control-Voice-Board-p-1056127.html?akmClientCountry=America&utm_source=youtube&utm_medium=liangzhenhua&utm_campaign=MertArduino&utm_content=liangzhenhua&p=CS120478587752016125&cur_warehouse=CN
 - Speaker
 - How to LED's: https://www.youtube.com/watch?v=bdIij70_VN0
-
-## Protype 1:
 
 
 
