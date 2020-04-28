@@ -4,6 +4,8 @@ Final
 
 ## Algorithms + Beauty Standards 
 
+<img src= "/img/scary.png" width="550" height="400" />
+
 <img src= "/img/mirror-sleeping.jpg" width="550" height="400" />
 
 <img src= "/img/Objective Mirror.jpg" width="600" height="500" />
