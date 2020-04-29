@@ -25,7 +25,7 @@ Final
 - LED-lined mirror when somebody says the key words "Mirror, mirror on the wall" lights up and has multiple responses:
  - The person 
  - "I cannot make that decision because I've not been programmed to be objective"
- - "Why don't you ever ask me who's the nicest of them all?"
+ - "Don't you want to know who's the nicest of them all?"
  - "Why don't you ever ask me who decides this value system you're so eager to base your life on?"
  - "Why do you care about anyone elses standard other than your own? "
  - "You've been conned to believe through centuries of systematic societal, political and economic gaslighting and brainwashing that the only opinion that matters and has value to you, is my own because we're the ones who actually financially + politically benefit from 90% of the hyper analzyed norms we create. All you have to do is stop beleiving it, but you don't and that's why we're still on top"
