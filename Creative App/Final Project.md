@@ -10,8 +10,16 @@ Final
 
 <img src= "/img/Objective Mirror.jpg" width="600" height="500" />
 
+
+## Sketch 1: 
+
 <img src= "/img/lmao.JPG" width="400" height="250" />
- 
+
+## Sketch 2: 
+
+<img src= "/img/Mirror 1.JPG" width="400" height="250" />
+
+
 - Evil person asks the mirror "Mirror, mirror on the wall. Who's the fairest of them all?" everyday to make sure it's still her --> symbol of systematic-biased inherently built into every every one of our algorithmic, machine learning, AI based technology utilized to cateogrize/sort us/anaylze us, that we don't realize we culturally rely on for trends, "popular", patterns, images purposefuly bombarded on us to make us conform ----> digital marketing algorithims, instagram/facebook/youtube trends, most reccommend videos, machine-learning driven platforms
 - LED-lined mirror when somebody says the key words "Mirror, mirror on the wall, whos the fairest of them all" lights up and says:
  - "I cannot make that decision because I've not been programmed to be objective"
