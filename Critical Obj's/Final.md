@@ -13,7 +13,7 @@ Final
  - society only sees women's value as baby makers and looking pretty for the male gaze
  - lingerie that shows off the thought-of "non sexy parts of your body" 
  - [Beauty, bodies, standards read](https://www.are.na/block/4034669)
-
+<img src= "/img/lmao.JPG" width="400" height="250" />
 
 ## Topic: Feminism + Body Standards + Algorithms
 ## Device: Juxtaposition/Metaphor
@@ -41,8 +41,6 @@ Final
 - Form matches Sleeping Beauty's mirror to make culutrual reference easiser
 - Feedback: https://docs.google.com/presentation/d/1ljGuxIDaIfiJOhPFewiltJZhospkJG5CqiavqZAySOo/edit#slide=id.g7521087fd9_8_7
  
- 
-<img src= "/img/lmao.JPG" width="400" height="250" />
 
 
 ## Materials:
