@@ -24,3 +24,9 @@ My main goal is to bring awareness to the envrionmental coniditons of cities and
 - Servo motors
 - Paper Mache Flowers
 
+## Implementation: 
+Final found here: https://docs.google.com/document/d/12vt6Bb3I7g6czukSUO2PmVINvft0fTD6WkIifyDJQ64/edit?usp=sharing
+
+
+
+
