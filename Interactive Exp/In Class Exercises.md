@@ -1,6 +1,6 @@
-**2/2/21:**
+## 2/2/21:
 
-1. Mariam
+Mariam
 Jnr in maryland 
 Video editing/photography
 Web design/UX
