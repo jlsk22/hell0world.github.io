@@ -1,6 +1,8 @@
 ## Week 3/5/21:
 - Writing, editing script as I go
 - Wacthed Flebag for case study, thinkin of adding the second camera in so i can talk to audience as if myself
+- Added in more storys/clues about myself 
+- Not shore how to end it though if im not doing ad-cliche scene
 - 
 
 
