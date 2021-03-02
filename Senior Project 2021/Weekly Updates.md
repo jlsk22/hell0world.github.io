@@ -5,6 +5,7 @@
 - Wacthed Flebag for input on cameras
 - Added in more storys/clues about myself 
 - Not shore how to end it though, if im not doing ad-cliche scene
+
 [My Moodboard/ Aesthetic]
 (https://www.are.na/niki-surma-bxdqyaul3mq/style-doc)
 
