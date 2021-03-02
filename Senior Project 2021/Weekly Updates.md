@@ -1,15 +1,10 @@
 ## Week 3/5/21:
 - Writing, editing script as I go
-- Wacthed Flebag for case study, thinkin of adding the second camera in so i can talk to audience as if myself
+- It's more about myself + videography skills than anything else now
+- Videography Reel except I talk and animte around me talking about my style + values 
+- Wacthed Flebag for input on cameras
 - Added in more storys/clues about myself 
 - Not shore how to end it though, if im not doing ad-cliche scene
-
-
-![Style DOC](style doc.PNG)
-
-
-
-
 
 
 ## Week 2/26/21:
