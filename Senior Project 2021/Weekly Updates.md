@@ -1,13 +1,16 @@
 ## Week 3/5/21:
 - Writing, editing script as I go
 - It's more about myself + videography skills than anything else now
-- Videography Reel except I talk and animte around me talking about my style + values 
+- Videography Reel, except I talk and animte around me talking about my style + values 
 - Wacthed Flebag for input on cameras
-- Added in more storys/clues about myself 
+- Added in more narrative story about myself 
 - Not shore how to end it though, if im not doing ad-cliche scene
 
 [My Moodboard/ Aesthetic]
 (https://www.are.na/niki-surma-bxdqyaul3mq/style-doc)
+
+
+
 
 
 ## Week 2/26/21:
