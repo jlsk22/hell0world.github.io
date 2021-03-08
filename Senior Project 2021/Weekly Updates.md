@@ -2,6 +2,7 @@
 - Finalized a script/ general scene breakdown
 - Watched more inputs for best directing pratices 
 - Started collecting different digital media assets already/ some footage 
+- Will prob do vector/design + some hand drawn + want to learn blender 3D
 - For midterm I'll have a start/ chunks to the video fleshed out
 
 [My script-storyboards](https://www.icloud.com/notes/0N7GHT3ZCTOe4d1Pq-TPkfLfA#Short/_Autobiographical_Film)
