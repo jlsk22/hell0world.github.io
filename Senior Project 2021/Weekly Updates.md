@@ -5,7 +5,7 @@
 - Will prob do vector/design + some hand drawn + want to learn blender 3D
 2D animation with 3D assets
 https://80.lv/articles/mixing-2d-3d-animation-in-blender/
-- For midterm I'll have a start/ chunks to the video fleshed out
+- For midterm, (in 2 weeks) I'll have a start/ chunks to the video fleshed out
 
 
 [My script-storyboards](https://www.icloud.com/notes/0N7GHT3ZCTOe4d1Pq-TPkfLfA#Short/_Autobiographical_Film)
