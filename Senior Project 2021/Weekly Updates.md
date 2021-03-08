@@ -1,3 +1,14 @@
+## Week 3/8/21:
+- Finalized a script/ general scene breakdown
+- Watched more inputs for best directing pratices 
+- Started collecting different digital media assets already/ some footage 
+
+[My script-storyboards](https://www.icloud.com/notes/0N7GHT3ZCTOe4d1Pq-TPkfLfA#Short/_Autobiographical_Film)
+
+[My Moodboard/ Aesthetic](https://www.are.na/niki-surma-bxdqyaul3mq/style-doc)
+
+
+
 ## Week 3/5/21:
 - Writing, editing script as I go
 - It's more about myself + videography skills than anything else now
