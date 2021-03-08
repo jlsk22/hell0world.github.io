@@ -8,6 +8,15 @@ https://80.lv/articles/mixing-2d-3d-animation-in-blender/
 - For midterm, (in 2 weeks) I'll have a start/ chunks to the video fleshed out
 
 
+Feedback:
+- What did you mean by abstract?
+-Derek: Start doing dummy voiceovers as soon as possible since making audio sound professional can be tricky. Be comfortable with the mic setup you have.
+- George: Blender 3D has been my bread and butter for 5 years and counting. Let me know if you need help with that!
+-Jason: Have you considered using 2d animation with 3d assets?
+- Chris: learning a new program to enhance the final product is definitely a good idea; it might be best to do as much as you can in your primary software first then add the 3D to enhance.
+- debbie: would it all be in your voice or would you add other voices as well (thinking about the mom testimonial)
+
+
 [My script-storyboards](https://www.icloud.com/notes/0N7GHT3ZCTOe4d1Pq-TPkfLfA#Short/_Autobiographical_Film)
 [My Moodboard/ Aesthetic](https://www.are.na/niki-surma-bxdqyaul3mq/style-doc)
 
