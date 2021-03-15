@@ -1,3 +1,9 @@
+## Week 3/15/21:
+- Did a shot-for-shot remake of a scene from an input to test out a technqiue i'm using
+- Started compiling assets on Premiere pro
+- Tinkering with blender to at least make one animation before midterm
+
+
 ## Week 3/8/21:
 - Finalized a script/ general scene breakdown
 - Watched more inputs for best directing pratices 
