@@ -1,7 +1,10 @@
 ## Week 3/15/21:
-- Did a shot-for-shot remake of a scene from an input to test out a technqiue i'm using
+- Did a shot-for-shot remake of a scene from an input to test out camera technqiues i'm using
+- Overall successful, will be using min. 2 cameras
+- Hoping to film weekend of 29th for better weather/ light on first location
+- Ordered tripod & film lenses 
 - Started compiling assets on Premiere pro
-- Tinkering with blender to at least make one animation before midterm
+- Tinkering with blender to make one animation before midterm
 
 
 ## Week 3/8/21:
