@@ -1,3 +1,24 @@
+## Week 3/30/21:
+- Had padlet midterm meeting and I got a lot of really good feedback from everyone! 
+- What I have so far is a great start but it definitely needs a fine tuned final edit
+- Presented Both: 
+- First half done ---> https://drive.google.com/file/d/1TBzxs9KBnRMulBaHAOlNbMFjPrlw8XZH/view?usp=sharing
+- Finished second half ---> https://drive.google.com/file/d/1AgU10ge8stVe6pTywaw9GpLCcNZHP-_U/view?usp=sharing
+- Working on making the beginning introduction more compelling
+- re-doing soundscapes
+- Leaving script alone because thats one thing everyone said was good as it is
+- Gonna use angela as another feedback since she had a lot of constructive + advice to give
+- The introductory- whoiam portion is done, now I need to film the more commercial/ planned bits 
+
+
+## Week 3/22/21:
+- Accumulated more shots to incude from around the city for more diversity= parks, sidewalks, pier
+- Curated a short and effective motion graphic for midterm
+- Reshot some voiceover takes 
+- Asked for feedback from friends 
+- First half done ---> https://drive.google.com/file/d/1TBzxs9KBnRMulBaHAOlNbMFjPrlw8XZH/view?usp=sharing
+
+
 ## Week 3/15/21:
 - Did a shot-for-shot remake of a scene from an input to test out camera technqiues i'm using
 - Overall successful, will be using min. 2 cameras
@@ -40,9 +61,6 @@ Feedback:
 - Not shore how to end it though, if im not doing ad-cliche scene
 
 [My Moodboard/ Aesthetic](https://www.are.na/niki-surma-bxdqyaul3mq/style-doc)
-
-
-
 
 
 ## Week 2/26/21:
