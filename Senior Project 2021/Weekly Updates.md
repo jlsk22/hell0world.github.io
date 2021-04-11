@@ -1,3 +1,15 @@
+## Week 4/13/21:
+- Completing more animations 
+- Storyboards to give friends for filming
+- 
+
+## Week 4/06/21:
+- Re- written script scenes
+- Bought/ tested sound equipment
+- Reached out to actors/ friends to star in it
+- Setting dates/ locations based on weather
+
+
 ## Week 3/30/21:
 - Had padlet midterm meeting and I got a lot of really good feedback from everyone! 
 - What I have so far is a great start but it definitely needs a fine tuned final edit
