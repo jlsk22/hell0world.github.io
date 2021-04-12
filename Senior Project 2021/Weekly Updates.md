@@ -1,7 +1,7 @@
 ## Week 4/13/21:
 - Completing more animations 
 - Storyboards to give friends for filming
-- 
+- edited rough draft first edition based on all comments, file here: https://drive.google.com/file/d/1uTgw4WmIWScKE42gePpiylxNS3BKRWBG/view?usp=sharing
 
 ## Week 4/06/21:
 - Re- written script scenes
