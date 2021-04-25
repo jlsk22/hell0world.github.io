@@ -1,3 +1,11 @@
+## Week 4/20/21:
+- Filmed b-roles, interviews, and footage at WSP and Union Square
+- Changed filming schedule to one day, since the audio was enough from responses
+- Worked with a friend, a musician on crafting music
+- Started editing new footage 
+- Recorded more voiceovers
+
+
 ## Week 4/13/21:
 - Completing more animations 
 - Storyboards to give friends for filming
