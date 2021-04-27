@@ -1,3 +1,9 @@
+## Week 4/27/21:
+- Start compiling and linking all elements to each other to create a consecutive short vid
+- Making animations
+- Recorded more voiceovers
+
+
 ## Week 4/20/21:
 - Filmed b-roles, interviews, and footage at WSP and Union Square
 - Changed filming schedule to one day, since the audio was enough from responses
