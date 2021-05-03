@@ -1,3 +1,8 @@
+## Week 5/3/21:
+-
+-
+
+
 ## Week 4/27/21:
 - Start compiling and linking all elements to each other to create a consecutive short vid
 - Making animations
