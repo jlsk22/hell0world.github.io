@@ -1,5 +1,10 @@
+# Documentation Process:
+
+
+
+
 ## Week 5/3/21:
--
+- Final animations + sounds design
 -
 
 
