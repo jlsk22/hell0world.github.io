@@ -1,13 +1,12 @@
 # Documentation Process:
-Highlights: 
-Downlights: 
+Highlights: Working with friends, doing animation
+Downlights: Need to budget time better
 
-
+# Check it: https://vimeo.com/546604972
 
 ## Week 5/3/21:
-- Final animations + sounds design
--
-
+- Final animations + sound design
+- finishing polish
 
 ## Week 4/27/21:
 - Start compiling and linking all elements to each other to create a consecutive short vid
